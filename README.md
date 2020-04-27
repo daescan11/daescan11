@@ -1,2 +1,6 @@
-# esx_carrierjob
-sx  de transportistade dinero
+#esx_carrierjob
+Trabajo de transportista de dinero
+
+#Requisitos
+
+#Instalacion
